@@ -43,7 +43,7 @@ Check out the live demo of usePopcorn: [usepopcornapp.netlify.app](https://usepo
 
 ## 🙌 Credits
 
-- **Course Instructor:** Jonas Schmedtmann
+- **Course Instructor:** Jonas Schmedtmann Sensei 🙇‍♀️🙏
 - **OMDB API:** [Open Movie Database](https://www.omdbapi.com/)
 
 Enjoy your movie journey with usePopcorn! 🎉 If you have any issues or suggestions, feel free to contribute or reach out to the project contributors.
